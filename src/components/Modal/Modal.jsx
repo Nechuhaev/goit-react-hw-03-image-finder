@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { createPortal } from 'react-dom';
+import {createPortal} from 'react-dom';
 import s from './Modal.module.css';
 import PropTypes from 'prop-types';
 
